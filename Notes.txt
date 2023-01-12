@@ -1,3 +1,4 @@
 I brainstormed for a few days to see what I would like to name this project. I decided to name it Runar meaning Rune supposedly.
-Rune Software is already taken by a German company. I had attempted to register the name RunicCMS but someone else registered the name on GITHub so I
+Rune Software is already taken by a German company. I had attempted to register the name RunicCMS but someone else registered the name on GITHub. I would like to stick with Runic / Rune naming and theming since I'm of the Frisian community and that is my ancestral heritage stuff. Cerberus is greek and I myself am not Greek at all therefore it seems
+logical to use the naming of my Frisian ancestry.
 
